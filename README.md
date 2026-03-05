@@ -40,9 +40,6 @@ pip install -r requirements.txt
 Run the app:
 python app.py
 
-Open in browser:
-http://127.0.0.1:5000
-
 Deployment
 
 Render is used to deploy this app with:
